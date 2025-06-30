@@ -1,1 +1,1 @@
-# odin-recipes
+learned how to use terminal to create directory, files, delete files, code. to vscode, and so on. # odin-recipes

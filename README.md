@@ -7,3 +7,5 @@ Carrot cake by Monika Grabkowska https://unsplash.com/photos/a-white-plate-toppe
 
 Brownie by Anna Przepiorka
 https://unsplash.com/photos/a-pile-of-brownies-sitting-on-top-of-a-white-plate-LjtviHokbr4
+
+test correct email if there's contribution dots

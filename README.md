@@ -1,9 +1,9 @@
-learned how to use terminal to create directory, files, delete files, code. to vscode, and so on. # odin-recipes
+learned how to use terminal to create directory, files, delete files, code. to vscode, and so on. #odin-recipes
 
 Image Credits
+Cheese cake by Magic Mary https://unsplash.com/photos/plate-of-cake-9tWCe5wQsdM
 
-Images used in this project are from Unsplash, a source of freely-usable images.
-According to the Unsplash License, credit is not required but appreciated.
+Carrot cake by Monika Grabkowska https://unsplash.com/photos/a-white-plate-topped-with-carrots-next-to-a-bowl-of-frosting-BOLlMSy_Gjs
 
-I’d like to credit the following creator:
-	•	Photo by Karly Gomez on Unsplash
+Brownie by Anna Przepiorka
+https://unsplash.com/photos/a-pile-of-brownies-sitting-on-top-of-a-white-plate-LjtviHokbr4

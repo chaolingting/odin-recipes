@@ -1,4 +1,4 @@
-*, *::after, *::before{
+/*, *::after, *::before{
     box-sizing: border-box;
 }
 
@@ -64,4 +64,4 @@ img{
 
 #index-recipes{
     margin: 32px;
-}
+}*/
